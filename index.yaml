@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  podinfo:
+  - apiVersion: v1
+    appVersion: 6.7.0
+    created: "2024-07-29T15:00:55.825595-04:00"
+    description: Podinfo Helm chart for Kubernetes
+    digest: 846f5b97144d8eb6ca3279bf14adb4e0af6a4e52bb70d0be1db23da078bab6cf
+    home: https://github.com/stefanprodan/podinfo
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: stefanprodan@users.noreply.github.com
+      name: stefanprodan
+    name: podinfo
+    sources:
+    - https://github.com/stefanprodan/podinfo
+    urls:
+    - https://raft-tech.github.io/interview-download/podinfo-6.7.0.tgz
+    version: 6.7.0
+generated: "2024-07-29T15:00:55.824846-04:00"
